@@ -1,6 +1,6 @@
-from core.Clase_Carta import Cartas
-from core.Baraja_Inglesa import Inglesa
-from core.Clase_Mano import Mano
+from Clase_Carta import Cartas
+from Baraja_Inglesa import Inglesa
+from Clase_Mano import Mano
 
 class Solitario:
 
@@ -392,3 +392,4 @@ class Solitario:
         if self.Victoria():
 
             print("¡Felicidades! Has ganado el Solitario.")
+
