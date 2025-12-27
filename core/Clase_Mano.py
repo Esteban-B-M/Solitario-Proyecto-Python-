@@ -1,5 +1,5 @@
-from core.Baraja_Inglesa import Inglesa
-from core.Clase_Carta import Cartas
+from Baraja_Inglesa import Inglesa
+from Clase_Carta import Cartas
 class Mano:
     """En este constructor usamos el metodo repartir para que ya obtengamos una baraja
         Para proporcionar una mano, el constructor necesita:
@@ -243,3 +243,4 @@ class Mano:
         """Metodo que permite iterar fuera de la clase"""
 
         return iter(self._mano)
+
