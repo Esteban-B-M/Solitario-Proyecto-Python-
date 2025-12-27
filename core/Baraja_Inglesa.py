@@ -1,4 +1,4 @@
-from Clase_Carta import Cartas
+from core.Clase_Carta import Cartas
 import random
 
 class Inglesa:
@@ -168,3 +168,4 @@ class Inglesa:
     def __iter__(self):
         """Metodo que permite iterar fuera de la clase"""
         return iter(self._Baraja)
+
