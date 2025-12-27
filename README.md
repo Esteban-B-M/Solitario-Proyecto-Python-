@@ -12,14 +12,14 @@ El objetivo principal es demostrar buenas prácticas de programación orientada 
 - Uso de clases, métodos, algoritmos y estructuras básicas
 
 ## Estructura del proyecto
-Solitario-Proyecto-Python-/
-├── core/
-│ ├── main.py # Archivo principal para ejecutar el juego
-│ ├── Baraja_inglesa.py # Clase Baraja
-│ ├── Clase_Carta.py # Clase Carta
-│ ├── Clase_Mano.py # Clase Mano
-│ └── Logica_Solitario.py # Clase Solitario y lógica del juego
-├── README.md
+- Solitario-Proyecto-Python-/
+  - core/
+    - main.py             # Archivo principal para ejecutar el juego
+    - Baraja_inglesa.py   # Clase Baraja
+    - Clase_Carta.py      # Clase Carta
+    - Clase_Mano.py       # Clase Mano
+    - Logica_Solitario.py # Clase Solitario y lógica del juego
+  - README.md
 
 ## Cómo ejecutar
 1. Clonar el repositorio:
