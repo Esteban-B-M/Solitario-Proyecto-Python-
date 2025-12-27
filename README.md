@@ -41,5 +41,5 @@ Notas:
 
 
 Contacto: 
-Autores: Esteban Balmaceda (Lider de proyecto), Santino Meoqui.
+Autores: Esteban Balmaceda (Lider de proyecto), Santino Meoqui (Colaborador).
 Email: eteban201317@gmail.com
