@@ -1,4 +1,4 @@
-from core.Logica_Solitario import Solitario
+from Logica_Solitario import Solitario
 
 def main():
     juego = Solitario()
@@ -9,3 +9,4 @@ def main():
 
 
 main()
+
